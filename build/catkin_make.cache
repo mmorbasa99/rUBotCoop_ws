@@ -1,0 +1,2 @@
+Chapter3_ROS_basics
+-DCATKIN_DEVEL_PREFIX=/home/mpuig/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mpuig/catkin_ws/install -G Unix Makefiles
