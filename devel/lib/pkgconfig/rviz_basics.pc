@@ -1,0 +1,8 @@
+prefix=/home/mpuig/rUBotCoop_ws/devel
+
+Name: rviz_basics
+Description: Description of rviz_basics
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

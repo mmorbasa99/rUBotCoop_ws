@@ -1,2 +1,2 @@
 - setup-file:
-    local-name: /home/mpuig/catkin_ws/devel/setup.sh
+    local-name: /home/mpuig/rUBotCoop_ws/devel/setup.sh

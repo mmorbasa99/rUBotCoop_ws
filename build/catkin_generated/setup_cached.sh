@@ -7,4 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export PWD='/home/mpuig/catkin_ws/build'
+export PWD='/home/mpuig/rUBotCoop_ws/build'

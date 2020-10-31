@@ -1,4 +1,4 @@
-prefix=/home/mpuig/catkin_ws/install
+prefix=/home/mpuig/rUBotCoop_ws/install
 
 Name: ros_basics
 Description: Description of ros_basics

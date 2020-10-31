@@ -1,4 +1,4 @@
-prefix=/home/mpuig/catkin_ws/devel
+prefix=/home/mpuig/rUBotCoop_ws/devel
 
 Name: ros_basics
 Description: Description of ros_basics

@@ -1,8 +1,8 @@
-# Install script for directory: /home/mpuig/catkin_ws/src/Chapter3_ROS_basics
+# Install script for directory: /home/mpuig/rUBotCoop_ws/src/Chapter3_ROS_basics
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "/home/mpuig/catkin_ws/install")
+  set(CMAKE_INSTALL_PREFIX "/home/mpuig/rUBotCoop_ws/install")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,17 +38,17 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/mpuig/catkin_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basics.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "/home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basics.pc")
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_basics/cmake" TYPE FILE FILES
-    "/home/mpuig/catkin_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basicsConfig.cmake"
-    "/home/mpuig/catkin_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basicsConfig-version.cmake"
+    "/home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basicsConfig.cmake"
+    "/home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics/catkin_generated/installspace/ros_basicsConfig-version.cmake"
     )
 endif()
 
 if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_basics" TYPE FILE FILES "/home/mpuig/catkin_ws/src/Chapter3_ROS_basics/package.xml")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/share/ros_basics" TYPE FILE FILES "/home/mpuig/rUBotCoop_ws/src/Chapter3_ROS_basics/package.xml")
 endif()
 

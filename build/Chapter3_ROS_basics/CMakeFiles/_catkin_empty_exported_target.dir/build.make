@@ -43,10 +43,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/mpuig/catkin_ws/src
+CMAKE_SOURCE_DIR = /home/mpuig/rUBotCoop_ws/src
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/mpuig/catkin_ws/build
+CMAKE_BINARY_DIR = /home/mpuig/rUBotCoop_ws/build
 
 # Utility rule file for _catkin_empty_exported_target.
 
@@ -63,10 +63,10 @@ Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/build: _catkin_
 .PHONY : Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/build
 
 Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/clean:
-	cd /home/mpuig/catkin_ws/build/Chapter3_ROS_basics && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
+	cd /home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics && $(CMAKE_COMMAND) -P CMakeFiles/_catkin_empty_exported_target.dir/cmake_clean.cmake
 .PHONY : Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/clean
 
 Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/depend:
-	cd /home/mpuig/catkin_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mpuig/catkin_ws/src /home/mpuig/catkin_ws/src/Chapter3_ROS_basics /home/mpuig/catkin_ws/build /home/mpuig/catkin_ws/build/Chapter3_ROS_basics /home/mpuig/catkin_ws/build/Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/mpuig/rUBotCoop_ws/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/mpuig/rUBotCoop_ws/src /home/mpuig/rUBotCoop_ws/src/Chapter3_ROS_basics /home/mpuig/rUBotCoop_ws/build /home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics /home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : Chapter3_ROS_basics/CMakeFiles/_catkin_empty_exported_target.dir/depend
 
