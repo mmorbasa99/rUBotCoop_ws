@@ -1,2 +1,2 @@
-Chapter3_ROS_basics:Chapter4_RViz_basics:Chapter5_Gazebo_basics
+Chapter3_ROS_basics:Chapter4_RViz_basics:Chapter5_Gazebo_basics:Chapter7_Robot_control_simulation:Chapter8_Virtual_SLAM/gopigo3_description:Chapter8_Virtual_SLAM/virtual_slam:teleop_tools/joy_teleop:teleop_tools/key_teleop:teleop_tools/mouse_teleop:teleop_tools/teleop_tools:teleop_tools/teleop_tools_msgs
 -DCATKIN_DEVEL_PREFIX=/home/mpuig/rUBotCoop_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mpuig/rUBotCoop_ws/install -G Unix Makefiles
