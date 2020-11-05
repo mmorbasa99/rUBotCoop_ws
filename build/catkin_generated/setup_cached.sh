@@ -8,4 +8,3 @@
 
 # modified environment variables
 export PWD='/home/mpuig/rUBotCoop_ws/build'
-export PYTHONPATH="/home/mpuig/rUBotCoop_ws/devel/lib/python2.7/dist-packages:$PYTHONPATH"

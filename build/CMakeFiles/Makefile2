@@ -2007,6 +2007,24 @@ clean: teleop_tools/teleop_tools_msgs/CMakeFiles/teleop_tools_msgs_generate_mess
 .PHONY : clean
 
 #=============================================================================
+# Directory level rules for directory Chapter3_Beginner_Tutorial
+
+# Convenience name for "all" pass in the directory.
+Chapter3_Beginner_Tutorial/all:
+
+.PHONY : Chapter3_Beginner_Tutorial/all
+
+# Convenience name for "clean" pass in the directory.
+Chapter3_Beginner_Tutorial/clean:
+
+.PHONY : Chapter3_Beginner_Tutorial/clean
+
+# Convenience name for "preinstall" pass in the directory.
+Chapter3_Beginner_Tutorial/preinstall:
+
+.PHONY : Chapter3_Beginner_Tutorial/preinstall
+
+#=============================================================================
 # Directory level rules for directory Chapter5_Gazebo_basics
 
 # Convenience name for "all" pass in the directory.
