@@ -892,10 +892,10 @@ nav_msgs_DIR:PATH=/opt/ros/melodic/share/nav_msgs/cmake
 onelib:FILEPATH=/usr/lib/x86_64-linux-gnu/libsdformat.so
 
 //Value Computed by CMake
-ros_basics_BINARY_DIR:STATIC=/home/mpuig/rUBotCoop_ws/build/Chapter3_ROS_basics
+ros_basics_BINARY_DIR:STATIC=/home/mpuig/rUBotCoop_ws/build/ros_basics
 
 //Value Computed by CMake
-ros_basics_SOURCE_DIR:STATIC=/home/mpuig/rUBotCoop_ws/src/Chapter3_ROS_basics
+ros_basics_SOURCE_DIR:STATIC=/home/mpuig/rUBotCoop_ws/src/ros_basics
 
 //The directory containing a CMake configuration file for rosconsole.
 rosconsole_DIR:PATH=/opt/ros/melodic/share/rosconsole/cmake
@@ -971,6 +971,15 @@ tf_DIR:PATH=/opt/ros/melodic/share/tf/cmake
 
 //The directory containing a CMake configuration file for trajectory_msgs.
 trajectory_msgs_DIR:PATH=/opt/ros/melodic/share/trajectory_msgs/cmake
+
+//The directory containing a CMake configuration file for turtlesim.
+turtlesim_DIR:PATH=/opt/ros/melodic/share/turtlesim/cmake
+
+//Value Computed by CMake
+turtlesim_tutorial_BINARY_DIR:STATIC=/home/mpuig/rUBotCoop_ws/build/turtlesim_tutorial
+
+//Value Computed by CMake
+turtlesim_tutorial_SOURCE_DIR:STATIC=/home/mpuig/rUBotCoop_ws/src/turtlesim_tutorial
 
 //Value Computed by CMake
 virtual_slam_BINARY_DIR:STATIC=/home/mpuig/rUBotCoop_ws/build/Chapter8_Virtual_SLAM/virtual_slam
